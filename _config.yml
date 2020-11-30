@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jie Deng"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "LA,CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=I5FMeisAAAAJ&view_op=list_works&sortby=pubdate"
